@@ -31,10 +31,11 @@
 <br>
 
 <span>
-
+<br>
 <a href="https://leetcode.com/yadavdipesh">
-<img height="316" src="https://leetcard.jacoblin.cool/yadavdipesh?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="yadavdipesh Leetcode Stats"/>
+<img height="316" src="https://leetcard.jacoblin.cool/yadavDipesh?theme=dark&font=Kreon&ext=contest" alt="yadavdipesh Leetcode Stats"/>
 </a>
+  
 <a href="https://codeforces.com/profile/yadavdipesh">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=yadavdipesh&theme=github_dark&force_username=true&border_color=404040" alt="yadavdipesh Codeforces Stats"/>
 </a>
