@@ -3,7 +3,7 @@
 - 👋 I’m Dipesh Kumar , 3rd year Undergraduate at NSUT Delhi.
 - 💻 I love doing competitive programming and building web applications.
 - 🌱 I'm exploring different fields in software development and learning new skills.
-- 📫 You can contact me through email - yadavdipesh331@gmail.com
+- 📫 You can contact me - yadavdipesh331@gmail.com
 <br>
 
 <p align="left">
