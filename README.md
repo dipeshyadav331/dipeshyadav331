@@ -39,9 +39,6 @@
 <a href="https://leetcode.com/yadavdipesh">
 <img height="316" src="https://leetcard.jacoblin.cool/yadavDipesh?theme=dark&font=Kreon&ext=contest" alt="yadavdipesh Leetcode Stats"/>
 </a>
-  
-<a href="https://codeforces.com/profile/yadavdipesh">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=yadavdipesh&theme=github_dark&force_username=true&border_color=404040" alt="yadavdipesh Codeforces Stats"/>
-</a>
+   
 <br>
 </span>
